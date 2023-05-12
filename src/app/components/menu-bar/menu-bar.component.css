@@ -1,0 +1,32 @@
+.menu-bar {
+  margin-top: 10px;
+  display: flex;
+  justify-content: right;
+  margin-right: 45px;
+}
+
+.menu-bar > ul {
+  margin-top: 15px;
+  border: 2px solid red;
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+  border-radius: 5px;
+  height: 45px;
+  align-items: center;
+}
+
+.menu-bar > ul > li {
+  list-style: none;
+  margin-right: 25px;
+  margin-left: 10px;
+}
+
+.menu-bar > ul > li > a {
+  color: black;
+  background-color: red;
+}
+
+.menu-bar > ul > li > a:hover{
+  color: yellow;
+}
