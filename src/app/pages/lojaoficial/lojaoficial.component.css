@@ -1,0 +1,25 @@
+h1 {
+  margin-top: 25px;
+  color: yellow;
+}
+
+.imagem {
+  border: 5px solid red;
+  width: 525px;
+  height: 523px;
+  display: flex;
+  justify-content: center;
+}
+
+.info {
+  color: gray;
+  display: flex;
+  flex-direction: row;
+  margin-left: 600px;
+  margin-top: -525px;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}

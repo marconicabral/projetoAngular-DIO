@@ -8,6 +8,10 @@ import { MenuTitleComponent } from './components/menu-title/menu-title.component
 import { BigCardComponent } from './components/big-card/big-card.component';
 import { SmallCardComponent } from './components/small-card/small-card.component';
 import { HomeComponent } from './pages/home/home.component';
+import { ContentComponent } from './pages/content/content.component';
+import { HinoComponent } from './pages/hino/hino';
+import { TitulosComponent } from './pages/titulos/titulos.component';
+import { LojaoficialComponent } from './pages/lojaoficial/lojaoficial.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +20,11 @@ import { HomeComponent } from './pages/home/home.component';
     MenuTitleComponent,
     BigCardComponent,
     SmallCardComponent,
-    HomeComponent
+    HomeComponent,
+    ContentComponent,
+    HinoComponent,
+    TitulosComponent,
+    LojaoficialComponent,
   ],
   imports: [
     BrowserModule,

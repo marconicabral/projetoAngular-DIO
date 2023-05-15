@@ -1,3 +1,7 @@
+h1 {
+  color: yellow;
+}
+
 .small-card {
   width: 605px;
   display: flex;

@@ -1,0 +1,30 @@
+hr {
+  margin-top: 15px;
+}
+
+.redes_sociais {
+  margin-top: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.lista_redes > ol{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  margin-left: 5px;
+}
+
+.lista_redes > ol > li {
+  margin-right: 15px;
+  margin-top: 15px;
+  list-style: none;
+  margin-left: 15px;
+}
+
+.lista_redes > ol > li > a {
+  color: white;
+  text-decoration: underline;
+}

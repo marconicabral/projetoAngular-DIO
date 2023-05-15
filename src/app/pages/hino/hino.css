@@ -1,0 +1,29 @@
+
+.title {
+  color: yellow;
+  display: flex;
+  justify-content: center;
+  margin-right: 35px;
+  margin-top: 75px;
+}
+
+.descricao {
+  color: gray;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  margin-right: 45px;
+}
+
+.letra {
+  color: red;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}

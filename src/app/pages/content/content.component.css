@@ -1,0 +1,36 @@
+.conteudo>div>h1 {
+  color: yellow;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  margin-left: 350px;
+  margin-top: 75px;
+}
+
+.conteudo>div>img {
+  border: 5px solid red;
+  height: 410px;
+  width: 273px;
+  margin-left: 15px;
+}
+
+.conteudo > div > p {
+  color: gray;
+  justify-content: center;
+  margin-left: 41px;
+  font-size: 12px;
+}
+
+.conteudo #description {
+  color: gray;
+  display: flex;
+  flex-direction: column;
+  margin-left: 340px;
+  margin-right: 10px;
+  margin-top: -400px;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
